@@ -8,7 +8,7 @@ Me chamo Raphael Guizan e sou progamador. Sou voltado para a área de jogos mas 
 - Brasileiro
 - 🎓 Formado em ciência da computação (UFF).
 - 🎮 Desenvolvedor de jogos.
-- 📊 Atualmente estou estudando análise de dados.
+- 📊 Atualmente estudando análise de dados.
 
 
 ### ☕ Entre em Contato
@@ -20,6 +20,8 @@ Me chamo Raphael Guizan e sou progamador. Sou voltado para a área de jogos mas 
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
 </div>
+
+#### 🎨 De uma olhada no meu [Portifólio](https://raphaelguizan.wixsite.com/portfolio).
 
 <!--
 **Raphaguizan/Raphaguizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
