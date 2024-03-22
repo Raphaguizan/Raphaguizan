@@ -6,6 +6,8 @@ Me chamo Raphael Guizan e sou progamador. Sou voltado para a área de jogos mas 
 ### 💻 Um pouco sobre mim
 
 - Brasileiro
+- 🎲 Adoro resolver cubo mágico
+- 🐱 tenho 5 gatos 🐶 e um cahorro
 - 🎓 Formado em ciência da computação (UFF).
 - 🎮 Desenvolvedor de jogos.
 - 📊 Atualmente estudando análise de dados.
